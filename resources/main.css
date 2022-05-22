@@ -262,6 +262,7 @@ footer{
     display: none;
 }
 
+/* cateva detalii ar fi de revazut aici in materie de spatiere si dimensiuni pe containere si continut, ti-am atasat un recording */
 @media (max-width: 600px) {
     body, html{
         background-color: #fff;
